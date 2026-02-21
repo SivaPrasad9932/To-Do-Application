@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "3a91",
+      "user_id": "Siva9932",
+      "user_name": "Siva Prasad",
+      "password": "Prasad@14432",
+      "email": "sivaprasad9932@gmail.com"
+    },
+    {
+      "id": "6702",
+      "user_id": "BVSP",
+      "user_name": "BVSP",
+      "password": "Prasad@14432",
+      "email": "sivaprasad9932@gmail.com"
+    },
+    {
+      "id": "76c5",
+      "user_id": "SivaNit",
+      "user_name": "SivaNit",
+      "password": "Prasad@1432",
+      "email": "sivaprasad9932@gmail.com"
+    }
+  ],
+  "appointments": [
+    {
+      "title": "2",
+      "description": "2",
+      "date": "2026-02-12",
+      "user_id": "Siva9932",
+      "id": "67c2"
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "date": "2026-02-07",
+      "user_id": "Siva9932",
+      "id": "6e89"
+    },
+    {
+      "id": "5075",
+      "title": "Spring class 9:00AM",
+      "description": "Spring Class 9:00 AM",
+      "date": "2026-02-27",
+      "user_id": "SivaNit"
+    }
+  ]
+}
