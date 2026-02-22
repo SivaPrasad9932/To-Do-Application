@@ -12,7 +12,7 @@ import { TodoDashBoardPage } from "./ToDoDashBoardPage"
 export function ToDoIndex() {
     return (
         <div className="container-fluid">
-            <BrowserRouter>
+            <BrowserRouter basename="/To-Do-Application/">
                 <header className="p-3 m-1 bg-light d-flex justify-content-between">
                     <div>
                         <span className="bi fs-4 mx-2 bi-pencil-square"></span>
@@ -46,4 +46,5 @@ export function ToDoIndex() {
             </BrowserRouter>
         </div >
     )
+
 }
